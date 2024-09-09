@@ -4,7 +4,7 @@ public class UnaryOperator {
     public static void main(String[] args) {
         int x = 10;
         int y = -5;
-        boolean isTrue;
+        boolean isTrue = true;
 
         // Increment
         System.out.println("x awal: " + x);
